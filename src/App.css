@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: white;
+
+}
+
+.row {
+  background: black;
+}
+
+.card {
+  background: black;
+}
+.App-link {
+  color: #61dafb;
+}
